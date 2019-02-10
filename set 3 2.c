@@ -2,7 +2,7 @@
 	#include<conio.h>
 	void main()
 	{
-	int i,max,n,num[50];
+	int i,max,n,num[100];
 	clrscr();
 	scanf("%d",&n);
 	for(i=0;i<n;i++)
